@@ -131,8 +131,8 @@ No se autoriza su distribución o uso comercial sin permiso previo del equipo **
 
 ## 📬 Contacto
 Si deseas conocer más sobre el proyecto o colaborar en su mejora:  
-📧 josepatino.dev@gmail.com  
-📧 mariaparra.front@gmail.com  
+📧 josel.patinog@konradlorenz.edu.com  
+📧 mariaa.parras@konradlorenz.edu.com  
 
 ---
 
